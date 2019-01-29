@@ -11,4 +11,4 @@ and in your test, make a screenshot with:
 
     PolygloteScreenCapture.takeScreenshot("main_activity");
   
-The screenshots will be made for all the langugages your set in LocaleRule constructor!
+The screenshots will be made for all the languages you define in LocaleRule constructor!
