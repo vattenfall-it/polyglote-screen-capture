@@ -9,6 +9,6 @@ In your instrumentation test using ActivityTestRule, simply add additional rule:
     
 and in your test, make a screenshot with:
 
-  PolygloteScreenCapture.takeScreenshot("main_activity");
+    PolygloteScreenCapture.takeScreenshot("main_activity");
   
 The screenshots will be made for all the langugages your set in LocaleRule constructor!
